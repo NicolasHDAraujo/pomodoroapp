@@ -1,0 +1,6 @@
+//este arquivo é referente a esse projeto, não afetando outros projetos
+{
+    "code-runner.executorMap": {
+        "typescript": "npx ts-node --files",
+    }
+}
